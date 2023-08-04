@@ -1,7 +1,8 @@
 # UAS-webpro-2
 UAS WEBPRO 2 Membuat Aplikasi  Daftar Buku pada Perpustakaan
 
-Anggota Kelompok: 
+Anggota Kelompok:
+
 Nur Septiyanti - 2020056
 
 Nadia Rahmawati- 2020032
@@ -13,7 +14,7 @@ Fitur Aplikasi
 Login
 Dashboard
 CRUD User
-Halaman input tambah buku dan edit
+Halaman input tambah buku dan edit 
 Teknologi Aplikasi ini dibangun dengan menggunakan
 
 
@@ -23,7 +24,5 @@ Visual Studio Code- perangkat lunak penyunting kode-sumber buatan Microsoft untu
 
 
 PhpMyAdmin - ditulis dalam bahasa PHP, PhpMyAdmin mendukung berbagai operasi database seperti MySQL maupun MariaDB.
-
-Laravel - Framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web
 
 Google Chrome - peramban web lintas platform yang dikembangkan oleh Google. 
